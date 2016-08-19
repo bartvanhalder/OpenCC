@@ -25,6 +25,15 @@ Open Chinese Convert (OpenCC, 開放中文轉換) is an opensource project for c
 * OpenCC Online (在線轉換) http://opencc.byvoid.com/
 * 現代漢語常用簡繁一對多字義辨析表 http://ytenx.org/byohlyuk/KienxPyan
 
+## Building debian packages
+
+make sure doxygen cmake and build-essential are installed
+
+> make
+> sudo checkinstall
+
+checkinstall will produce a .deb in the current directory
+
 ## Installation 安裝
 
 * [Debian](http://packages.qa.debian.org/o/opencc.html)
