@@ -30,6 +30,7 @@ Open Chinese Convert (OpenCC, 開放中文轉換) is an opensource project for c
 make sure doxygen cmake and build-essential are installed
 
 > make
+
 > sudo checkinstall
 
 checkinstall will produce a .deb in the current directory
